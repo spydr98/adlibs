@@ -94,15 +94,15 @@ print '
  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Ad Libs at The Tethered</title>
+<title>Ad Libs at </title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="description" content="Download free software!" />
-<meta name="keywords" content="download software freeware open source program file" />
+<meta name="description" content="Adlibs!" />
+<meta name="keywords" content="Adlibs" />
 <link rel="icon" href="/favicon.ico" type="image/x-icon" />
 </head>
-<body style="background-image:url(\'/images/snowflake.png\'); color:#000066; margin:50px;" >
+<body style="background-image:url(\'images/snowflake.png\'); color:#000066; margin:50px;" >
 <div style="background-color:#ccf; text-align:center; padding:20px;">
-<h2>Welcome to &quot;<abbr title="Ad libitum is Latin for &quot;at [one\'s] pleasure&quot;; it is often shortened to &quot;ad lib&quot; or &quot;ad-lib&quot;">Ad Libs</abbr>&quot; at The Tethered</h2>
+<h2>Welcome to &quot;<abbr title="Ad libitum is Latin for &quot;at [one\'s] pleasure&quot;; it is often shortened to &quot;ad lib&quot; or &quot;ad-lib&quot;">Ad Libs</abbr>&quot; at </h2>
 <div style="text-align:left;">
 ';
 if (isset($_POST['story'])) {
