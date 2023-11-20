@@ -24,9 +24,9 @@ print '
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="icon" href="/favicon.ico" type="image/x-icon" />
 </head>
-<body style="background-image:url(\'/images/snowflake.png\'); color:#000066; margin:50px;" >
+<body style="background-image:url(\'images/snowflake.png\'); color:#000066; margin:50px;" >
 <div style="background-color:#ccf; padding:20px;">
-<h2 style="text-align:center;">Welcome to &quot;<abbr title="Ad libitum is Latin for &quot;at [one\'s] pleasure&quot;; it is often shortened to &quot;ad lib&quot; or &quot;ad-lib&quot;">Ad Libs</abbr>&quot; at The Tethered</h2>
+<h2 style="text-align:center;">Welcome to &quot;<abbr title="Ad libitum is Latin for &quot;at [one\'s] pleasure&quot;; it is often shortened to &quot;ad lib&quot; or &quot;ad-lib&quot;">Ad Libs</abbr>&quot; at </h2>
 ';
 print'
 <p>Not all of these entries will used on every &quot;ad lib&quot;.  We have filled in the entries but you can replace any word you like.</p>
@@ -122,7 +122,7 @@ print'
 			Select a story to use.<br />
 			<select name="story">'."\n";
 
-$storypath = '/var/www/html/adlibs/stories/';
+$storypath = 'adlibs/stories/';
 
 if ($fh = opendir ($storypath)) {
 	$num = 0;
