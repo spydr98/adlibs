@@ -1,0 +1,29 @@
+Attic
+Ballroom
+Bathroom
+Bedroom
+Box room
+Cellar
+Class room
+Cloakroom
+Conservatory
+Den
+Dining room
+Drawing room
+Foyer
+Game room
+Hall
+Larder
+Library
+Living room
+Lounge
+Kitchen
+Mud room
+Music room
+Office
+Pantry
+Parlour
+Sitting room
+Spare room
+Guest room
+Utility room
